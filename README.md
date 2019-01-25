@@ -1,6 +1,6 @@
 # Pex Interview Challenge
 
-Solution to to Pex Interview Challenge.
+Solution to the Pex Interview Challenge.
 
 ## Requirements
 
